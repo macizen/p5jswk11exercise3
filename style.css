@@ -1,0 +1,13 @@
+html body {
+    background-image: url("obamaWallet.jpg")
+}
+h3 {
+    margin: 0;
+}
+td {
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+td:hover {
+    background-color: gainsboro;
+}
